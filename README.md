@@ -1,0 +1,1 @@
+Watches the PowerShell readline file and pushes the last line to a webserver in real time using a standard data model.
